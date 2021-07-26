@@ -1,4 +1,4 @@
-# Phonebook
+# CLI Contacts
 This is a contacts app ran through the terminal.  You can save contacts and view contact lists.  Created for a CPSC 131 assignment
 
 ## How to Use
